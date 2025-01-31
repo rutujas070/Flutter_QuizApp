@@ -40,6 +40,7 @@ Padding & spacing for different screen sizes.
 
 
 ## Screenshots
+![Screenshot Description](images/quiz_app.jpg)
 
 
 ## Video
