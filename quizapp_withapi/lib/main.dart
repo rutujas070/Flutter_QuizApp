@@ -24,6 +24,3 @@ class MainApp extends StatelessWidget {
   }
 }
 
-
-
-//https://github.com/rutujas070/Flutter_QuizApp/tree/main/quizapp_withapi
