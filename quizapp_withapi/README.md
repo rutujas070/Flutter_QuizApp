@@ -40,7 +40,7 @@ Padding & spacing for different screen sizes.
 
 
 ## Screenshots
-<img src="images/splashscreen.png" alt="Screenshot" width="500">
+<img src="images/splashscreen.png" alt="Screenshot" width="200",height="200">
 
 ## Flutter Version
 ```
