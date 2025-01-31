@@ -43,7 +43,7 @@ Padding & spacing for different screen sizes.
 
 
 ## Video
-[Watch the Video]()
+[Watch the Video](https://github.com/rutujas070/Flutter_QuizApp/blob/main/quizapp_withapi/video/Screen%20Recording%202025-01-31%20123651.mp4)
 
 
 ## Flutter Version
